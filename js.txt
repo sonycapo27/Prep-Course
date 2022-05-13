@@ -1,4 +1,0 @@
-var = hola;
-var a = 1 + 1;
-var b = 2 + 1;
-console.log("hola como va")"
